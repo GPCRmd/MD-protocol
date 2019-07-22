@@ -9,5 +9,6 @@ The protocol is written in Python 3 programming language inside the Jupyter note
 - Numpy v
 - HTMD v from Acellera Ltd. you can obtain it [here](https://www.htmd.org/).
 - Jupyter v for Python 3 to open the python notebook.
+- ACEMD and slurm for running the molecular dynamics simulations.
 
 
